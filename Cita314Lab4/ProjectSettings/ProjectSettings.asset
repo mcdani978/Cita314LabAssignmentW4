@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 28
-  productGUID: 00000000000000000000000000000000
+  productGUID: 92ed8a3447c582244be04c0a60599d6b
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -889,7 +889,7 @@ PlayerSettings:
   cloudProjectId: 89d5d71e-28be-4c72-9182-0f6cfdcd0b6a
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: 
+  projectName: Cita314Lab4
   organizationId: jessej713
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
